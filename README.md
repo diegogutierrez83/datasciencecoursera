@@ -5,4 +5,4 @@ date: "21 de septiembre de 2015"
 output: html_document
 ---
 ## This is a markdown file.
-### I copy the Helloworld in the readme because it is easy. In adition, I have the file done in my Rstudio.
+### I copy the Helloworld in the readme because it is easy. In addition, I have the file done in my Rstudio.
